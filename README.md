@@ -11,6 +11,7 @@ A Python + PyGame project that visually demonstrates how classic sorting algorit
  - Visual highlighting of comparisons and sorted state
 
 ## Installation
-pip install pygame
+pip install pygame  
 python main.py
+
 
